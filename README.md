@@ -3,11 +3,11 @@ Telegram Bot
 
 ✅ Steps to Create It
 1. Create a bot on Telegram
-Open Telegram and search for @BotFather.
+2. Open Telegram and search for @BotFather.
 
-Type /start and follow the instructions.
+3. Type /start and follow the instructions.
 
-Use /newbot to create a new bot.
+4. Use /newbot to create a new bot.
 
 It will give you a bot token like 123456789:ABCdefGhIJKlmNoPQRstuVWxyz.
 
