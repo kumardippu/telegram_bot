@@ -9,7 +9,7 @@ Telegram Bot
 
 4. Use /newbot to create a new bot.
 
-It will give you a bot token like 123456789:ABCdefGhIJKlmNoPQRstuVWxyz.
+It will give you a bot token like 123456789:ABCdefGhIJKlmNoP***VWxyz.
 
 pip install python-telegram-bot==13.15
 
